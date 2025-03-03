@@ -23,6 +23,5 @@ Aqui, criei uma playlist com vídeos/músicas direto do YouTube, com um visual f
 
 ## 🌸 Como usar
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/silvyie/playlist-youtube.git
+🚧 Projeto em desenvolvimento! 🚧  
+Em breve, disponibilizarei a primeira versão para que você possa clonar e testar a playlist. 🎶  
